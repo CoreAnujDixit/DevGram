@@ -11,7 +11,7 @@ function ListingScreenDetails() {
                 <Text style={styles.title}>32GB RAM Computer with RGB Monitor</Text>
                 <Text style={styles.sub}>$100</Text>
                 <ListItem
-                    image={require("../assets/bheem.png")}
+                    image={require("../assets/anuj.png")}
                     title="Bheem Gujjar"
                     subTitle="5 Listings"
 
